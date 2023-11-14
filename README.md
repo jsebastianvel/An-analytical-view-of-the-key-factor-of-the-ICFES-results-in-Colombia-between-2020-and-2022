@@ -17,9 +17,9 @@ Visualizations: View visual representations of key insights in the 'visualizatio
 Contribution Guidelines: Interested in contributing? Check the guidelines in 'CONTRIBUTING.md'.
 # Getting Started
 <p> Clone the Repository: Start by cloning this repository to your local machine.</p>
-* Explore Notebooks: Navigate to the 'notebooks' directory to explore the analytical process and findings.
-* Visualizations: Check out visualizations in the 'visualizations' directory for a quick overview.
-* Contribute: Feel free to contribute insights, additional analyses, or improvements. Follow the guidelines in 'CONTRIBUTING.md'.
+<p> Explore Notebooks: Navigate to the 'notebooks' directory to explore the analytical process and findings. </p>
+<p> Visualizations: Check out visualizations in the 'visualizations' directory for a quick overview.</p>
+<p> Contribute: Feel free to contribute insights, additional analyses, or improvements. Follow the guidelines in 'CONTRIBUTING.md'.</p>
 # Acknowledgments
 This project wouldn't be possible without the valuable data provided by ICFES and educational institutions in Colombia.
 Let's Uncover Educational Insights
