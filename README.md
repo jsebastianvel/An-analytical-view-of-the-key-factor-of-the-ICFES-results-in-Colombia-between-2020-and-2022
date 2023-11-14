@@ -16,7 +16,7 @@ Notebooks: Delve into the analytical process and findings through Jupyter notebo
 Visualizations: View visual representations of key insights in the 'visualizations' directory.
 Contribution Guidelines: Interested in contributing? Check the guidelines in 'CONTRIBUTING.md'.
 # Getting Started
-* Clone the Repository: Start by cloning this repository to your local machine.
+<p> Clone the Repository: Start by cloning this repository to your local machine.</p>
 * Explore Notebooks: Navigate to the 'notebooks' directory to explore the analytical process and findings.
 * Visualizations: Check out visualizations in the 'visualizations' directory for a quick overview.
 * Contribute: Feel free to contribute insights, additional analyses, or improvements. Follow the guidelines in 'CONTRIBUTING.md'.
