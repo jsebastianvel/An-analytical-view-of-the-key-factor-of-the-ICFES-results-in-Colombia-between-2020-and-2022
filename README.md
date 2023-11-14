@@ -16,11 +16,11 @@ Notebooks: Delve into the analytical process and findings through Jupyter notebo
 Visualizations: View visual representations of key insights in the 'visualizations' directory.
 Contribution Guidelines: Interested in contributing? Check the guidelines in 'CONTRIBUTING.md'.
 # Getting Started
-Clone the Repository: Start by cloning this repository to your local machine.
-Explore Notebooks: Navigate to the 'notebooks' directory to explore the analytical process and findings.
-Visualizations: Check out visualizations in the 'visualizations' directory for a quick overview.
-Contribute: Feel free to contribute insights, additional analyses, or improvements. Follow the guidelines in 'CONTRIBUTING.md'.
-Acknowledgments
+* Clone the Repository: Start by cloning this repository to your local machine.
+* Explore Notebooks: Navigate to the 'notebooks' directory to explore the analytical process and findings.
+* Visualizations: Check out visualizations in the 'visualizations' directory for a quick overview.
+* Contribute: Feel free to contribute insights, additional analyses, or improvements. Follow the guidelines in 'CONTRIBUTING.md'.
+# Acknowledgments
 This project wouldn't be possible without the valuable data provided by ICFES and educational institutions in Colombia.
 Let's Uncover Educational Insights
 Join us on this exploration as we dissect the key factors shaping ICFES results in Colombia. Together, let's uncover valuable insights that contribute to the ongoing conversation about education in the country. Happy analyzing!
